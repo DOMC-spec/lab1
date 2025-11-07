@@ -1,0 +1,5 @@
+﻿  ConsoleApplication1.cpp
+H:\системное\лаб 1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(12,14): warning C4244: инициализация: преобразование "ULONGLONG" в "int", возможна потеря данных
+H:\системное\лаб 1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(14,15): warning C4244: инициализация: преобразование "ULONGLONG" в "int", возможна потеря данных
+H:\системное\лаб 1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(16,17): warning C4244: инициализация: преобразование "ULONGLONG" в "int", возможна потеря данных
+  ConsoleApplication1.vcxproj -> H:\системное\лаб 1\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
